@@ -26,6 +26,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Remarques","folderPath":"folders/Remarques.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Particle Systems.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"input","folderPath":"folders/Objets/input.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -34,6 +35,11 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"ogj_bras01","path":"objects/ogj_bras01/ogj_bras01.yy",},},
+    {"id":{"name":"InPut_CamionGrue","path":"objects/InPut_CamionGrue/InPut_CamionGrue.yy",},},
+    {"id":{"name":"ogj_camiionGrue","path":"objects/ogj_camiionGrue/ogj_camiionGrue.yy",},},
+    {"id":{"name":"ogj_bras02","path":"objects/ogj_bras02/ogj_bras02.yy",},},
+    {"id":{"name":"inPut_Serrage","path":"objects/inPut_Serrage/inPut_Serrage.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

@@ -15,6 +15,12 @@
     {"name":"Remarques","order":13,"path":"folders/Remarques.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
+    {"name":"input","order":1,"path":"folders/Objets/input.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"ogj_bras01","order":4,"path":"objects/ogj_bras01/ogj_bras01.yy",},
+    {"name":"ogj_camiionGrue","order":2,"path":"objects/ogj_camiionGrue/ogj_camiionGrue.yy",},
+    {"name":"ogj_bras02","order":3,"path":"objects/ogj_bras02/ogj_bras02.yy",},
+    {"name":"inPut_Serrage","order":1,"path":"objects/inPut_Serrage/inPut_Serrage.yy",},
+  ],
 }

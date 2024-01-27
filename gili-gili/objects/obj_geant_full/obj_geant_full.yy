@@ -32,5 +32,5 @@
     "path": "sprites/spr_full_ogre/spr_full_ogre.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

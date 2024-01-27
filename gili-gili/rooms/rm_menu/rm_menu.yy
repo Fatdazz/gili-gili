@@ -9,6 +9,8 @@
   "instanceCreationOrder": [
     {"name":"inst_15E90572","path":"rooms/rm_menu/rm_menu.yy",},
     {"name":"inst_7EE6DA22","path":"rooms/rm_menu/rm_menu.yy",},
+    {"name":"inst_4D512B84","path":"rooms/rm_menu/rm_menu.yy",},
+    {"name":"inst_705D1273","path":"rooms/rm_menu/rm_menu.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -21,6 +23,8 @@
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_start_rm","path":"objects/obj_start_rm/obj_start_rm.yy",},"propertyId":{"name":"idrm","path":"objects/obj_start_rm/obj_start_rm.yy",},"value":"rm_camion",},
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_start_rm","path":"objects/obj_start_rm/obj_start_rm.yy",},"propertyId":{"name":"text_ref","path":"objects/obj_start_rm/obj_start_rm.yy",},"value":"Room Camion",},
           ],"rotation":0.0,"scaleX":10.5,"scaleY":4.0,"x":288.0,"y":544.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4D512B84","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_start_rm","path":"objects/obj_start_rm/obj_start_rm.yy",},"properties":[],"rotation":0.0,"scaleX":9.5,"scaleY":4.5,"x":1152.0,"y":192.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_705D1273","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"manette","path":"objects/manette/manette.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2240.0,"y":1152.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":true,"inheritLayerSettings":true,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

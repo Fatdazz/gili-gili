@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_geant_pied_d",
+  "name": "obj_geant_jambe_d",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_geant_pied_droit",
-    "path": "sprites/spr_geant_pied_droit/spr_geant_pied_droit.yy",
+    "name": "spr_geant_jambe_droite",
+    "path": "sprites/spr_geant_jambe_droite/spr_geant_jambe_droite.yy",
   },
   "spriteMaskId": null,
   "visible": true,

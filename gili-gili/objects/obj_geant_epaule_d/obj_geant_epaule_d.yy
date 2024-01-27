@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_geant_pied_d",
+  "name": "obj_geant_epaule_d",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -9,10 +9,7 @@
     "name": "Geant",
     "path": "folders/Objets/Geant.yy",
   },
-  "parentObjectId": {
-    "name": "obj_geant_move_rire",
-    "path": "objects/obj_geant_move_rire/obj_geant_move_rire.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -29,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_geant_pied_droit",
-    "path": "sprites/spr_geant_pied_droit/spr_geant_pied_droit.yy",
+    "name": "spr_geant_epaule_droite",
+    "path": "sprites/spr_geant_epaule_droite/spr_geant_epaule_droite.yy",
   },
   "spriteMaskId": null,
   "visible": true,

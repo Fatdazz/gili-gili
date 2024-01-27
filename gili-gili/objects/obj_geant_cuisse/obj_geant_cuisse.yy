@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_geant_jambe",
+  "name": "obj_geant_cuisse",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_geant_jambe_droite",
-    "path": "sprites/spr_geant_jambe_droite/spr_geant_jambe_droite.yy",
+    "name": "spr_geant_cuisse",
+    "path": "sprites/spr_geant_cuisse/spr_geant_cuisse.yy",
   },
   "spriteMaskId": null,
   "visible": true,

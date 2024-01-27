@@ -5,7 +5,6 @@ physics_world_gravity(0, 0);                    //No gravity
 physics_world_update_iterations(20);            //iterations per step
 physics_world_update_speed(60);                 //Update speed
 
-
 var edge_fix = physics_fixture_create();
 physics_fixture_set_chain_shape(edge_fix, true);
 physics_fixture_add_point(edge_fix, 0, 0);
@@ -21,9 +20,17 @@ var instB = instance_create_layer(x-32, y-64, layer, obj_bras01);
 var instC = instance_create_layer(x-32, y-2*64, layer, obj_bras01);
 var instD = instance_create_layer(x-32, y-3*64, layer, obj_bras01);
 
-global.joint1 = physics_joint_revolute_create(instA, instB, x - 32, y - 32, 0, 0, true, 400, 200, true, false);
-global.joint2 = physics_joint_revolute_create(instB, instC, x - 32, y - 32 - 64, 0, 0, true, 400, 200, true, false);
-global.joint3 = physics_joint_revolute_create(instC, instD, x - 32, y - 32 - 2*64, 0, 0, true, 400, 200, true, false);
+var instJ1 = instance_create_layer(x - 32, y - 32, layer, obj_joint);
+var instJ2 = instance_create_layer(x - 32, y - 32 - 64, layer, obj_joint);
+var instJ3 = instance_create_layer(x - 32, y - 32 - 2*64, layer, obj_joint);
+
+physics_joint_prismatic_create(instA, instJ1, x - 32, y - 32, 1, 0, 0, 0, false, 0, 0, false, false)
+physics_joint_prismatic_create(instB, instJ2, x - 32, y - 32 - 64, 1, 0, 0, 0, false, 0, 0, false, false)
+physics_joint_prismatic_create(instC, instJ3, x - 32, y - 32 - 2*64, 1, 0, 0, 0, false, 0, 0, false, false)
+
+global.joint1 = physics_joint_revolute_create(instA, instB, x - 32, y - 32, 0, 0, true, torque_ref, speed_ref, true, false);
+global.joint2 = physics_joint_revolute_create(instB, instC, x - 32, y - 32 - 64, 0, 0, true, torque_ref, speed_ref, true, false);
+global.joint3 = physics_joint_revolute_create(instC, instD, x - 32, y - 32 - 2*64, 0, 0, true, torque_ref, speed_ref, true, false);
 
 global.jointSelect = global.joint1;
 

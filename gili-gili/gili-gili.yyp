@@ -48,6 +48,7 @@
     {"id":{"name":"obj_bras01","path":"objects/obj_bras01/obj_bras01.yy",},},
     {"id":{"name":"obj_geant_move_rire","path":"objects/obj_geant_move_rire/obj_geant_move_rire.yy",},},
     {"id":{"name":"manette","path":"objects/manette/manette.yy",},},
+    {"id":{"name":"fct_draw_pie","path":"scripts/fct_draw_pie/fct_draw_pie.yy",},},
     {"id":{"name":"rm_tometome","path":"rooms/rm_tometome/rm_tometome.yy",},},
     {"id":{"name":"obj_main","path":"objects/obj_main/obj_main.yy",},},
     {"id":{"name":"obj_Static","path":"objects/obj_Static/obj_Static.yy",},},

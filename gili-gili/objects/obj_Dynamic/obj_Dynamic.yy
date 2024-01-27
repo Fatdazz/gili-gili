@@ -1,20 +1,18 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_bras01",
+  "name": "obj_Dynamic",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_Static","path":"objects/obj_Static/obj_Static.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Grue",
-    "path": "folders/Objets/Grue.yy",
+    "name": "Physics",
+    "path": "folders/Objets/Physics.yy",
   },
-  "parentObjectId": {
-    "name": "obj_Dynamic",
-    "path": "objects/obj_Dynamic/obj_Dynamic.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -28,17 +26,14 @@
   "physicsShape": 1,
   "physicsShapePoints": [
     {"x":0.0,"y":0.0,},
-    {"x":64.0,"y":0.0,},
-    {"x":64.0,"y":64.0,},
-    {"x":0.0,"y":64.0,},
+    {"x":32.0,"y":0.0,},
+    {"x":32.0,"y":32.0,},
+    {"x":0.0,"y":32.0,},
   ],
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_bras",
-    "path": "sprites/spr_bras/spr_bras.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

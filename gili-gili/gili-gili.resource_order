@@ -19,6 +19,7 @@
     {"name":"Sons","order":2,"path":"folders/Sons.yy",},
     {"name":"geant","order":2,"path":"folders/Sprites/geant.yy",},
     {"name":"Tile sets","order":1,"path":"folders/Tile sets.yy",},
+    {"name":"grue","order":9,"path":"folders/Sprites/grue.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_geant_jambe_droite","order":8,"path":"sprites/spr_geant_jambe_droite/spr_geant_jambe_droite.yy",},
@@ -34,6 +35,7 @@
     {"name":"obj_geant_full","order":6,"path":"objects/obj_geant_full/obj_geant_full.yy",},
     {"name":"obj_geant_jambe_g","order":13,"path":"objects/obj_geant_jambe_g/obj_geant_jambe_g.yy",},
     {"name":"spr_geant_ventre","order":15,"path":"sprites/spr_geant_ventre/spr_geant_ventre.yy",},
+    {"name":"spr_truss_moyen","order":1,"path":"sprites/spr_truss_moyen/spr_truss_moyen.yy",},
     {"name":"obj_camiionGrue","order":3,"path":"objects/obj_camiionGrue/obj_camiionGrue.yy",},
     {"name":"obj_geant_pied_g","order":1,"path":"objects/obj_geant_pied_g/obj_geant_pied_g.yy",},
     {"name":"obj_geant_membre","order":17,"path":"sprites/obj_geant_membre/obj_geant_membre.yy",},
@@ -46,6 +48,7 @@
     {"name":"spr_bras","order":5,"path":"sprites/spr_bras/spr_bras.yy",},
     {"name":"Obj_geant","order":18,"path":"objects/Obj_geant/Obj_geant.yy",},
     {"name":"obj_alex","order":6,"path":"objects/obj_alex/obj_alex.yy",},
+    {"name":"spr_truss_court","order":2,"path":"sprites/spr_truss_court/spr_truss_court.yy",},
     {"name":"spr_cabine","order":4,"path":"sprites/spr_cabine/spr_cabine.yy",},
     {"name":"rm_geant2","order":4,"path":"rooms/rm_geant2/rm_geant2.yy",},
     {"name":"obj_geant_ventre","order":10,"path":"objects/obj_geant_ventre/obj_geant_ventre.yy",},
@@ -70,5 +73,6 @@
     {"name":"spr_geant_main_droite","order":10,"path":"sprites/spr_geant_main_droite/spr_geant_main_droite.yy",},
     {"name":"rm_camion","order":6,"path":"rooms/rm_camion/rm_camion.yy",},
     {"name":"rm_geant","order":3,"path":"rooms/rm_geant/rm_geant.yy",},
+    {"name":"spr_truss_joint","order":3,"path":"sprites/spr_truss_joint/spr_truss_joint.yy",},
   ],
 }

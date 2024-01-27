@@ -17,8 +17,8 @@ physics_fixture_delete(edge_fix);
 
 var instA = instance_create_layer(x, y, layer, obj_camionGrue);
 var instB = instance_create_layer(x-32, y-64, layer, obj_bras01);
-var instC = instance_create_layer(x-32, y-2*64, layer, obj_bras01);
-var instD = instance_create_layer(x-32, y-3*64, layer, obj_bras01);
+#var instC = instance_create_layer(x-32, y-2*64, layer, obj_bras01);
+#var instD = instance_create_layer(x-32, y-3*64, layer, obj_bras01);
 
 var instJ1 = instance_create_layer(x - 32, y - 32, layer, obj_joint);
 var instJ2 = instance_create_layer(x - 32, y - 32 - 64, layer, obj_joint);

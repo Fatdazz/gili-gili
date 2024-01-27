@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_geant_pied_g",
+    "path": "sprites/spr_geant_pied_g/spr_geant_pied_g.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

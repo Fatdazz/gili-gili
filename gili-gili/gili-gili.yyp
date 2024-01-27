@@ -49,6 +49,7 @@
     {"id":{"name":"obj_camiionGrue","path":"objects/obj_camiionGrue/obj_camiionGrue.yy",},},
     {"id":{"name":"obj_geant_pied_d","path":"objects/obj_geant_pied_d/obj_geant_pied_d.yy",},},
     {"id":{"name":"spr_geant_pied_d","path":"sprites/spr_geant_pied_d/spr_geant_pied_d.yy",},},
+    {"id":{"name":"ani_moveCorp","path":"animcurves/ani_moveCorp/ani_moveCorp.yy",},},
     {"id":{"name":"obj_geant_pied_g","path":"objects/obj_geant_pied_g/obj_geant_pied_g.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"id":{"name":"obj_bras03","path":"objects/obj_bras03/obj_bras03.yy",},},

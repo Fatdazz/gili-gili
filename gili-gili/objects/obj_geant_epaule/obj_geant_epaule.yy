@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_geant_epaule",
+    "path": "sprites/spr_geant_epaule/spr_geant_epaule.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

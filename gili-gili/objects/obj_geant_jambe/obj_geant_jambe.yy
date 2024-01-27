@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_geant_jambe",
+    "path": "sprites/spr_geant_jambe/spr_geant_jambe.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

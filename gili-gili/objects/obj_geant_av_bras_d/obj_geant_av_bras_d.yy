@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_geant_main",
+  "name": "obj_geant_av_bras_d",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_geant_main_gauche",
-    "path": "sprites/spr_geant_main_gauche/spr_geant_main_gauche.yy",
+    "name": "spr_geant_av_bras_droit",
+    "path": "sprites/spr_geant_av_bras_droit/spr_geant_av_bras_droit.yy",
   },
   "spriteMaskId": null,
   "visible": true,

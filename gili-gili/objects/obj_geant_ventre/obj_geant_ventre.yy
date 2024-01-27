@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_geant_epaule",
+  "name": "obj_geant_ventre",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_geant_epaule_droite",
-    "path": "sprites/spr_geant_epaule_droite/spr_geant_epaule_droite.yy",
+    "name": "spr_geant_ventre",
+    "path": "sprites/spr_geant_ventre/spr_geant_ventre.yy",
   },
   "spriteMaskId": null,
   "visible": true,

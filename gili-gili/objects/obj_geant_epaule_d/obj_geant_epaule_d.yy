@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_alex",
+  "name": "obj_geant_epaule_d",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Geant",
+    "path": "folders/Objets/Geant.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_Alex",
-    "path": "sprites/spr_Alex/spr_Alex.yy",
+    "name": "spr_geant_epaule_droite",
+    "path": "sprites/spr_geant_epaule_droite/spr_geant_epaule_droite.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Gean",
-    "path": "folders/Objets/Gean.yy",
+    "name": "Geant",
+    "path": "folders/Objets/Geant.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_geant_jambe",
-    "path": "sprites/spr_geant_jambe/spr_geant_jambe.yy",
+    "name": "spr_geant_jambe_droite",
+    "path": "sprites/spr_geant_jambe_droite/spr_geant_jambe_droite.yy",
   },
   "spriteMaskId": null,
   "visible": true,

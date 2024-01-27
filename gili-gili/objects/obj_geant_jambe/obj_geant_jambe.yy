@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "ogj_bras01",
+  "name": "obj_geant_jambe",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objets",
-    "path": "folders/Objets.yy",
+    "name": "Gean",
+    "path": "folders/Objets/Gean.yy",
   },
   "parentObjectId": null,
   "persistent": false,

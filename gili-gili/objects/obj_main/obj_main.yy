@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "ogj_bras02",
+  "name": "obj_main",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objets",
-    "path": "folders/Objets.yy",
+    "name": "Grue",
+    "path": "folders/Objets/Grue.yy",
   },
   "parentObjectId": null,
   "persistent": false,

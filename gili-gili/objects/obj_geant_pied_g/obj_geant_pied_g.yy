@@ -4,7 +4,10 @@
   "name": "obj_geant_pied_g",
   "eventList": [],
   "managed": true,
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_geant_move_rire","path":"objects/obj_geant_move_rire/obj_geant_move_rire.yy",},"propertyId":{"name":"angleMax_anim_rire","path":"objects/obj_geant_move_rire/obj_geant_move_rire.yy",},"value":"18.400002",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_geant_move_rire","path":"objects/obj_geant_move_rire/obj_geant_move_rire.yy",},"propertyId":{"name":"angleRand_anim_rire","path":"objects/obj_geant_move_rire/obj_geant_move_rire.yy",},"value":"10",},
+  ],
   "parent": {
     "name": "Geant",
     "path": "folders/Objets/Geant.yy",

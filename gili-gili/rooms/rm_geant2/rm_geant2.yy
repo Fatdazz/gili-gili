@@ -43,7 +43,7 @@
     "path": "rooms/rm_meme/rm_meme.yy",
   },
   "physicsSettings": {
-    "inheritPhysicsSettings": true,
+    "inheritPhysicsSettings": false,
     "PhysicsWorld": false,
     "PhysicsWorldGravityX": 0.0,
     "PhysicsWorldGravityY": 10.0,
@@ -51,7 +51,7 @@
   },
   "roomSettings": {
     "Height": 1250,
-    "inheritRoomSettings": true,
+    "inheritRoomSettings": false,
     "persistent": false,
     "Width": 2400,
   },
@@ -70,7 +70,7 @@
     "clearDisplayBuffer": true,
     "clearViewBackground": false,
     "enableViews": false,
-    "inheritViewSettings": true,
+    "inheritViewSettings": false,
   },
   "volume": 1.0,
 }

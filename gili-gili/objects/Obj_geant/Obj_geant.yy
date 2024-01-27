@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_geant_pied_d",
+  "name": "Obj_geant",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -9,10 +9,7 @@
     "name": "Geant",
     "path": "folders/Objets/Geant.yy",
   },
-  "parentObjectId": {
-    "name": "obj_geant_move_rire",
-    "path": "objects/obj_geant_move_rire/obj_geant_move_rire.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -26,12 +23,12 @@
   "physicsShape": 1,
   "physicsShapePoints": [],
   "physicsStartAwake": true,
-  "properties": [],
+  "properties": [
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"Life","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"True","varType":3,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"Reveil","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"True","varType":3,},
+  ],
   "solid": false,
-  "spriteId": {
-    "name": "spr_geant_pied_droit",
-    "path": "sprites/spr_geant_pied_droit/spr_geant_pied_droit.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

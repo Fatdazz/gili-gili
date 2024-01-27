@@ -9,6 +9,6 @@ if cont_anim_rire > 1 {
 
 
 var _valeur = animcurve_channel_evaluate(_channel, cont_anim_rire);
-show_debug_message(sprite_get_xoffset(sprite_index));
+//show_debug_message(sprite_get_xoffset(sprite_index));
 
 image_angle = angleInit_anim_rire + rand_anim_rire * _valeur;  

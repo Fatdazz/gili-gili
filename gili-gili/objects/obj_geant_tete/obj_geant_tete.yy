@@ -2,18 +2,17 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_geant_tete",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
-  ],
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
     "name": "Geant",
     "path": "folders/Objets/Geant.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_geant_move_rire",
+    "path": "objects/obj_geant_move_rire/obj_geant_move_rire.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -27,12 +26,7 @@
   "physicsShape": 1,
   "physicsShapePoints": [],
   "physicsStartAwake": true,
-  "properties": [
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"angleMax_anim_rire","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"7.8","varType":0,},
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"angleRand_anim_rire","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"4","varType":0,},
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"ptX_rot_anim_rire","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"730","varType":0,},
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"ptY_rot_anim_rire","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"181","varType":0,},
-  ],
+  "properties": [],
   "solid": false,
   "spriteId": {
     "name": "spr_geant_tete",

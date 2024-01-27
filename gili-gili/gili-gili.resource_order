@@ -39,7 +39,9 @@
     {"name":"spr_full_ogre","order":6,"path":"sprites/spr_full_ogre/spr_full_ogre.yy",},
     {"name":"spr_geant_epaule_droite","order":6,"path":"sprites/spr_geant_epaule_droite/spr_geant_epaule_droite.yy",},
     {"name":"obj_bras03","order":2,"path":"objects/obj_bras03/obj_bras03.yy",},
+    {"name":"spr_bras","order":8,"path":"sprites/spr_bras/spr_bras.yy",},
     {"name":"obj_alex","order":9,"path":"objects/obj_alex/obj_alex.yy",},
+    {"name":"spr_cabine","order":7,"path":"sprites/spr_cabine/spr_cabine.yy",},
     {"name":"rm_geant2","order":4,"path":"rooms/rm_geant2/rm_geant2.yy",},
     {"name":"obj_geant_epaule","order":4,"path":"objects/obj_geant_epaule/obj_geant_epaule.yy",},
     {"name":"obj_bras02","order":1,"path":"objects/obj_bras02/obj_bras02.yy",},
@@ -52,6 +54,7 @@
     {"name":"spr_geant_av_bras_gauche","order":17,"path":"sprites/spr_geant_av_bras_gauche/spr_geant_av_bras_gauche.yy",},
     {"name":"spr_geant_epaule_gauche","order":7,"path":"sprites/spr_geant_epaule_gauche/spr_geant_epaule_gauche.yy",},
     {"name":"spr_geant_main_droite","order":10,"path":"sprites/spr_geant_main_droite/spr_geant_main_droite.yy",},
+    {"name":"rm_camion","order":6,"path":"rooms/rm_camion/rm_camion.yy",},
     {"name":"rm_geant","order":3,"path":"rooms/rm_geant/rm_geant.yy",},
   ],
 }

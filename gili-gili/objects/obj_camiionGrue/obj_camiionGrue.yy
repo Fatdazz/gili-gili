@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_cabine",
+    "path": "sprites/spr_cabine/spr_cabine.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

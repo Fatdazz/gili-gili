@@ -1,5 +1,6 @@
 /// @description Insérez la description ici
 // Vous pouvez écrire votre code dans cet éditeur
+/*
 if(global.jointSelect == global.joint1)
 {
 	exit;

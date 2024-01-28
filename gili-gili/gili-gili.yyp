@@ -109,6 +109,7 @@
     {"id":{"name":"obj_Dynamic","path":"objects/obj_Dynamic/obj_Dynamic.yy",},},
     {"id":{"name":"spr_geant_av_bras_droit","path":"sprites/spr_geant_av_bras_droit/spr_geant_av_bras_droit.yy",},},
     {"id":{"name":"obj_Floor","path":"objects/obj_Floor/obj_Floor.yy",},},
+    {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"id":{"name":"spr_Alex","path":"sprites/spr_Alex/spr_Alex.yy",},},
     {"id":{"name":"inPut_Serrage","path":"objects/inPut_Serrage/inPut_Serrage.yy",},},
     {"id":{"name":"spr_bg_ciel","path":"sprites/spr_bg_ciel/spr_bg_ciel.yy",},},
@@ -143,6 +144,7 @@
     {"roomId":{"name":"rm_meme","path":"rooms/rm_meme/rm_meme.yy",},},
     {"roomId":{"name":"rm_camion","path":"rooms/rm_camion/rm_camion.yy",},},
     {"roomId":{"name":"rm_phi","path":"rooms/rm_phi/rm_phi.yy",},},
+    {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

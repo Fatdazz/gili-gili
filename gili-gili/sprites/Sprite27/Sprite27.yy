@@ -48,8 +48,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Grue",
-    "path": "folders/Objets/Grue.yy",
+    "name": "gili-gili",
+    "path": "gili-gili.yyp",
   },
   "preMultiplyAlpha": false,
   "sequence": {

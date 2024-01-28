@@ -27,6 +27,7 @@ function draw_pie(_x  , _y  ,_health , _max, _col, _radius, _transparency){
         
     }
     draw_set_alpha(1);
+	draw_set_colour(c_white);
 }
 }
 

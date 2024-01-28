@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_epaule_gauche",
+    "path": "sprites/spr_epaule_gauche/spr_epaule_gauche.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

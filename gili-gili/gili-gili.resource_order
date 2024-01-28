@@ -1,6 +1,14 @@
 {
-  "FolderOrderSettings": [],
+  "FolderOrderSettings": [
+    {"name":"Geant","order":5,"path":"folders/Objets/Geant.yy",},
+    {"name":"Grue","order":1,"path":"folders/Objets/Grue.yy",},
+    {"name":"GUI","order":2,"path":"folders/Objets/GUI.yy",},
+    {"name":"input","order":3,"path":"folders/Objets/input.yy",},
+    {"name":"Physics","order":4,"path":"folders/Objets/Physics.yy",},
+  ],
   "ResourceOrderSettings": [
+    {"name":"obj_Control","order":6,"path":"objects/obj_Control/obj_Control.yy",},
+    {"name":"obj_bras01","order":5,"path":"objects/obj_bras01/obj_bras01.yy",},
     {"name":"fct_draw_pie","order":1,"path":"scripts/fct_draw_pie/fct_draw_pie.yy",},
     {"name":"Sprite27","order":1,"path":"sprites/Sprite27/Sprite27.yy",},
     {"name":"spr_truss_moyen","order":3,"path":"sprites/spr_truss_moyen/spr_truss_moyen.yy",},
@@ -12,5 +20,10 @@
     {"name":"spr_joint","order":4,"path":"sprites/spr_joint/spr_joint.yy",},
     {"name":"spr_truss_long","order":1,"path":"sprites/spr_truss_long/spr_truss_long.yy",},
     {"name":"obj_truss_joint","order":1,"path":"objects/obj_truss_joint/obj_truss_joint.yy",},
+    {"name":"obj_main","order":4,"path":"objects/obj_main/obj_main.yy",},
+    {"name":"obj_camionGrue","order":2,"path":"objects/obj_camionGrue/obj_camionGrue.yy",},
+    {"name":"obj_bras03","order":3,"path":"objects/obj_bras03/obj_bras03.yy",},
+    {"name":"obj_Floor","order":1,"path":"objects/obj_Floor/obj_Floor.yy",},
+    {"name":"obj_truss_joint","order":7,"path":"objects/obj_truss_joint/obj_truss_joint.yy",}
   ],
 }

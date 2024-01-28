@@ -25,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_geant_av_bras_droit",
-    "path": "sprites/spr_geant_av_bras_droit/spr_geant_av_bras_droit.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

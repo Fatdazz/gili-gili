@@ -25,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_geant_ventre",
-    "path": "sprites/spr_geant_ventre/spr_geant_ventre.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

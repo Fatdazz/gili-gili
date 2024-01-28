@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "gili-gili",
-    "path": "gili-gili.yyp",
+    "name": "taches",
+    "path": "folders/Objets/Geant/taches.yy",
   },
   "parentObjectId": null,
   "persistent": false,

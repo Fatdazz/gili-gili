@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_pied_gauche",
-  "bbox_bottom": 163,
+  "bbox_bottom": 466,
   "bbox_left": 0,
   "bbox_right": 210,
-  "bbox_top": 0,
+  "bbox_top": 303,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e3ec02e3-600f-4acd-9c1b-840be17284c0",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1ae932dc-4870-465c-b2a8-aad0d2b03738",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 164,
+  "height": 615,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"463f4f42-d7e7-466b-b704-9f9b4fdb3f84","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"fb157195-2dea-48ba-8f92-130a770fa3ba","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e3ec02e3-600f-4acd-9c1b-840be17284c0","path":"sprites/spr_pied_gauche/spr_pied_gauche.yy",},},},"Disabled":false,"id":"101335de-21b0-4887-89d5-7c1bb523cc16","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"1ae932dc-4870-465c-b2a8-aad0d2b03738","path":"sprites/spr_pied_gauche/spr_pied_gauche.yy",},},},"Disabled":false,"id":"387865fa-667f-422f-b1f7-4186b32cfa1d","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 211,
+  "width": 908,
 }

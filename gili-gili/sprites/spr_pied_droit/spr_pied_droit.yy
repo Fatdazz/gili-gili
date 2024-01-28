@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_pied_droit",
-  "bbox_bottom": 160,
-  "bbox_left": 0,
-  "bbox_right": 186,
-  "bbox_top": 0,
+  "bbox_bottom": 610,
+  "bbox_left": 211,
+  "bbox_right": 397,
+  "bbox_top": 450,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f8602e78-7ada-446e-9177-8d62b03aefa8",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8b40835a-7ef1-4874-8df1-26ea3440c309",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 161,
+  "height": 615,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"7ba85adc-a6ed-4842-b8d9-4025794639c7","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f8ce5a45-23f5-480a-b6b9-868daf59490a","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"f8602e78-7ada-446e-9177-8d62b03aefa8","path":"sprites/spr_pied_droit/spr_pied_droit.yy",},},},"Disabled":false,"id":"82d9e08c-c7f5-4f97-a877-c5c42d820252","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"8b40835a-7ef1-4874-8df1-26ea3440c309","path":"sprites/spr_pied_droit/spr_pied_droit.yy",},},},"Disabled":false,"id":"f6e52013-c466-4bb3-938b-9d8ec22d6d64","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 187,
+  "width": 908,
 }

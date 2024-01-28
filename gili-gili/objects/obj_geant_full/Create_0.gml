@@ -22,3 +22,6 @@ create_membre_geant(spr_pied_gauche,obj_geant_pied_g)
 create_membre_geant(spr_tete_tache,obj_geant_tete)
 create_membre_geant(spr_ventre,obj_geant_ventre)
 create_membre_geant(spr_bras_gauche_tache,obj_bras_gauche_tache)
+create_membre_geant(spr_cuisse_tache,obj_cuisse_tache)
+create_membre_geant(spr_epaule_droite_tache,obj_epaule_droite_tache)
+// suit

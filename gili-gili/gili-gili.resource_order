@@ -3,7 +3,18 @@
     {"name":"taches","order":1,"path":"folders/Objets/Geant/taches.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_jambe_droite_tache","order":4,"path":"objects/obj_jambe_droite_tache/obj_jambe_droite_tache.yy",},
+    {"name":"obj_epaule_droite_tache","order":3,"path":"objects/obj_epaule_droite_tache/obj_epaule_droite_tache.yy",},
+    {"name":"obj_ventre_tache_1","order":11,"path":"objects/obj_ventre_tache_1/obj_ventre_tache_1.yy",},
+    {"name":"obj_jambe_gauche_tache_1","order":5,"path":"objects/obj_jambe_gauche_tache_1/obj_jambe_gauche_tache_1.yy",},
     {"name":"Sprite50","order":1,"path":"sprites/Sprite50/Sprite50.yy",},
+    {"name":"obj_pied_gauche_tache","order":8,"path":"objects/obj_pied_gauche_tache/obj_pied_gauche_tache.yy",},
+    {"name":"Object47","order":10,"path":"objects/Object47/Object47.yy",},
+    {"name":"obj_tete_tache","order":9,"path":"objects/obj_tete_tache/obj_tete_tache.yy",},
+    {"name":"obj_jambe_gauche_tache_2","order":6,"path":"objects/obj_jambe_gauche_tache_2/obj_jambe_gauche_tache_2.yy",},
+    {"name":"obj_cuisse_tache","order":2,"path":"objects/obj_cuisse_tache/obj_cuisse_tache.yy",},
+    {"name":"obj_ventre_tache_2","order":12,"path":"objects/obj_ventre_tache_2/obj_ventre_tache_2.yy",},
     {"name":"obj_tache","order":1,"path":"objects/obj_tache/obj_tache.yy",},
+    {"name":"obj_main_droite_tache","order":7,"path":"objects/obj_main_droite_tache/obj_main_droite_tache.yy",},
   ],
 }

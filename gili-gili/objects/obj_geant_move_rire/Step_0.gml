@@ -1,5 +1,6 @@
 
 
+
 cont_anim_rire =  cont_anim_rire + 1.5/fps  /// 1.5 speed de n'anime
 if cont_anim_rire > 1 {
 	rand_anim_rire = random(angleRand_anim_rire) + angleMax_anim_rire ;  

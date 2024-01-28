@@ -2,6 +2,7 @@
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
     {"name":"obj_truss_moyen","order":2,"path":"objects/obj_truss_moyen/obj_truss_moyen.yy",},
+    {"name":"Obj_truss_mouve","order":5,"path":"objects/Obj_truss_mouve/Obj_truss_mouve.yy",},
     {"name":"fct_draw_pie","order":1,"path":"scripts/fct_draw_pie/fct_draw_pie.yy",},
     {"name":"spr_joint_on","order":5,"path":"sprites/spr_joint_on/spr_joint_on.yy",},
     {"name":"Sprite35","order":4,"path":"sprites/Sprite35/Sprite35.yy",},

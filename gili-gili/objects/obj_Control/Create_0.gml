@@ -23,7 +23,7 @@ var instD = instance_create_layer(x-32, y-3*64, layer, obj_truss_court);
 
 joint  = array_create(3,noone)
 
-
+/// ici 
 
 
 global.joint1 = physics_joint_revolute_create(instA, instB, x - 32, y - 32, 0, 0, true, torque_ref, speed_ref, true, false);

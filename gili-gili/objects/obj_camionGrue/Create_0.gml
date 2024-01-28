@@ -22,10 +22,11 @@ with(instB){
 	image_yscale = 0.3
 	image_angle = -90 + 30
 }
-var instc = instance_create_layer(100 , 1999 + y, "Instances", obj_truss_joint);
+var instc = instance_create_layer(x , y, "Instances", obj_truss_joint);
 
 with(instc){
 	image_xscale = 0.3
 	image_yscale = 0.3
 	image_mere = other.id
 }
+

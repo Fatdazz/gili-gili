@@ -45,6 +45,7 @@
     {"id":{"name":"obj_truss_moyen","path":"objects/obj_truss_moyen/obj_truss_moyen.yy",},},
     {"id":{"name":"spr_geant_jambe_droite","path":"sprites/spr_geant_jambe_droite/spr_geant_jambe_droite.yy",},},
     {"id":{"name":"obj_Control","path":"objects/obj_Control/obj_Control.yy",},},
+    {"id":{"name":"Obj_truss_mouve","path":"objects/Obj_truss_mouve/Obj_truss_mouve.yy",},},
     {"id":{"name":"obj_geant_cuisse","path":"objects/obj_geant_cuisse/obj_geant_cuisse.yy",},},
     {"id":{"name":"obj_truss_long","path":"objects/obj_truss_long/obj_truss_long.yy",},},
     {"id":{"name":"obj_geant_move_rire","path":"objects/obj_geant_move_rire/obj_geant_move_rire.yy",},},

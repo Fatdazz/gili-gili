@@ -17,6 +17,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objets","folderPath":"folders/Objets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Geant","folderPath":"folders/Objets/Geant.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"taches","folderPath":"folders/Objets/Geant/taches.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Grue","folderPath":"folders/Objets/Grue.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GUI","folderPath":"folders/Objets/GUI.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"input","folderPath":"folders/Objets/input.yy",},
@@ -79,6 +80,7 @@
     {"id":{"name":"obj_main","path":"objects/obj_main/obj_main.yy",},},
     {"id":{"name":"spr_jambe_gauche_tache_1","path":"sprites/spr_jambe_gauche_tache_1/spr_jambe_gauche_tache_1.yy",},},
     {"id":{"name":"obj_Static","path":"objects/obj_Static/obj_Static.yy",},},
+    {"id":{"name":"rm_game_02","path":"rooms/rm_game_02/rm_game_02.yy",},},
     {"id":{"name":"spr_jambe_droite_tache","path":"sprites/spr_jambe_droite_tache/spr_jambe_droite_tache.yy",},},
     {"id":{"name":"obj_geant_main_d","path":"objects/obj_geant_main_d/obj_geant_main_d.yy",},},
     {"id":{"name":"rm_meme","path":"rooms/rm_meme/rm_meme.yy",},},
@@ -184,6 +186,7 @@
     {"roomId":{"name":"rm_meme","path":"rooms/rm_meme/rm_meme.yy",},},
     {"roomId":{"name":"rm_camion","path":"rooms/rm_camion/rm_camion.yy",},},
     {"roomId":{"name":"rm_phi","path":"rooms/rm_phi/rm_phi.yy",},},
+    {"roomId":{"name":"rm_game_02","path":"rooms/rm_game_02/rm_game_02.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

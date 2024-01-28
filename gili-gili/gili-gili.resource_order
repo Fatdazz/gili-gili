@@ -16,10 +16,10 @@
     {"name":"Sprites","order":14,"path":"folders/Sprites.yy",},
     {"name":"background","order":9,"path":"folders/Sprites/background.yy",},
     {"name":"geant","order":6,"path":"folders/Sprites/geant.yy",},
+    {"name":"ventre","order":1,"path":"folders/Sprites/geant/ventre.yy",},
     {"name":"grue","order":7,"path":"folders/Sprites/grue.yy",},
     {"name":"joueur1","order":8,"path":"folders/Sprites/joueur1.yy",},
     {"name":"Tile sets","order":15,"path":"folders/Tile sets.yy",},
-    {"name":"ventre","order":1,"path":"folders/Sprites/geant/ventre.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_truss_moyen","order":2,"path":"objects/obj_truss_moyen/obj_truss_moyen.yy",},

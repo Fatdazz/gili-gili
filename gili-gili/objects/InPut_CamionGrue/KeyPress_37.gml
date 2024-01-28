@@ -1,27 +1,27 @@
 /// @description Insérez la description ici
 // Vous pouvez écrire votre code dans cet éditeur
 
-if(joint_select == camion.joint)
+if(inst_select == camion)
 {
 	exit;
 }
 
-var angle = physics_joint_get_value(joint_select, phy_joint_angle)*180/pi;
-physics_joint_set_value(joint_select, phy_joint_angle_limits, true);
-physics_joint_set_value(joint_select, phy_joint_upper_angle_limit, angle+eps);
-physics_joint_set_value(joint_select, phy_joint_lower_angle_limit, angle-eps);
+var angle = physics_joint_get_value(inst_select.joint, phy_joint_angle)*180/pi;
+physics_joint_set_value(inst_select.joint, phy_joint_angle_limits, true);
+physics_joint_set_value(inst_select.joint, phy_joint_upper_angle_limit, angle+eps);
+physics_joint_set_value(inst_select.joint, phy_joint_lower_angle_limit, angle-eps);
 speed_ref = speed_ref*div_force
 torque_ref = torque_ref*div_force
 
-if(joint_select == bras_long.joint)
+if(inst_select == bras_long)
 {
-	joint_select = camion.joint;
+	inst_select = camion;
 }
-else if(joint_select == bras_moyen.joint)
+else if(inst_select == bras_moyen)
 {
-	joint_select = bras_long.joint;
+	inst_select = bras_long;
 }
-else if(joint_select == bras_court.joint)
+else if(inst_select == bras_court)
 {
-	joint_select = bras_moyen.joint;
+	inst_select = bras_moyen;
 }

@@ -1,6 +1,5 @@
 /// @description Insérez la description ici
 // Vous pouvez écrire votre code dans cet éditeur
-audio_play_sound(titre5, 0, true)
-
-
-
+audio_play_sound(backtrack, 0, true)
+music_select = audio_play_sound(solo1, 0, true)
+i=1

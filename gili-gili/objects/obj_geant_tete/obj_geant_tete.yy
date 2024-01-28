@@ -28,10 +28,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_tete",
-    "path": "sprites/spr_tete/spr_tete.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

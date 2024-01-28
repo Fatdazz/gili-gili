@@ -1,17 +1,11 @@
 {
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
-    {"name":"obj_music","order":1,"path":"objects/obj_music/obj_music.yy",},
-    {"name":"giant_laugh","order":5,"path":"sounds/giant_laugh/giant_laugh.yy",},
-    {"name":"titre1","order":3,"path":"sounds/titre1/titre1.yy",},
-    {"name":"titre2","order":4,"path":"sounds/titre2/titre2.yy",},
-    {"name":"titre5","order":2,"path":"sounds/titre5/titre5.yy",},
-    {"name":"titre4","order":1,"path":"sounds/titre4/titre4.yy",},
-  "FolderOrderSettings": [
-    {"name":"taches","order":1,"path":"folders/Objets/Geant/taches.yy",},
-  ],
-  "ResourceOrderSettings": [
-    {"name":"Sprite50","order":1,"path":"sprites/Sprite50/Sprite50.yy",},
-    {"name":"obj_tache","order":1,"path":"objects/obj_tache/obj_tache.yy",},
+    {"name":"solo4","order":3,"path":"sounds/solo4/solo4.yy",},
+    {"name":"obj_joint_on","order":1,"path":"objects/obj_joint_on/obj_joint_on.yy",},
+    {"name":"backtrack","order":4,"path":"sounds/backtrack/backtrack.yy",},
+    {"name":"solo2","order":1,"path":"sounds/solo2/solo2.yy",},
+    {"name":"solo3","order":2,"path":"sounds/solo3/solo3.yy",},
+    {"name":"solo1","order":5,"path":"sounds/solo1/solo1.yy",},
   ],
 }

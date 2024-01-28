@@ -1,4 +1,8 @@
 /// @description Insérez la description ici
 // Vous pouvez écrire votre code dans cet éditeur
- event_inherited();
+layer =  layer_get_id("Taches")
 
+image_alpha = 1;
+if(isMove){
+	
+}

@@ -25,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_geant_cuisse",
-    "path": "sprites/spr_geant_cuisse/spr_geant_cuisse.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

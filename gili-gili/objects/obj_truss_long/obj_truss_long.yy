@@ -36,8 +36,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_bras",
-    "path": "sprites/spr_bras/spr_bras.yy",
+    "name": "spr_truss_long",
+    "path": "sprites/spr_truss_long/spr_truss_long.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -27,11 +27,14 @@
   "physicsShape": 1,
   "physicsShapePoints": [],
   "physicsStartAwake": true,
-  "properties": [],
+  "properties": [
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"join_friction","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"1","varType":0,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"isSelect","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0","varType":3,},
+  ],
   "solid": false,
   "spriteId": {
-    "name": "spr_truss_joint",
-    "path": "sprites/spr_truss_joint/spr_truss_joint.yy",
+    "name": "str_joint_back",
+    "path": "sprites/str_joint_back/str_joint_back.yy",
   },
   "spriteMaskId": null,
   "visible": true,

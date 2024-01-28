@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_cuisse",
-  "bbox_bottom": 185,
-  "bbox_left": 0,
-  "bbox_right": 267,
-  "bbox_top": 0,
+  "bbox_bottom": 368,
+  "bbox_left": 379,
+  "bbox_right": 646,
+  "bbox_top": 183,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"84dfc95e-c9b7-4ca9-97f4-7961630bc046",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"aec4695f-37ae-4cff-bc5a-167cd5d34f5b",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 186,
+  "height": 615,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"90b05f8d-03a0-4ee0-9418-ae0f8dbe124d","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"888c9289-e672-4df6-919e-0b140edba2b8","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"84dfc95e-c9b7-4ca9-97f4-7961630bc046","path":"sprites/spr_cuisse/spr_cuisse.yy",},},},"Disabled":false,"id":"8232cbfd-2d44-4dc2-a7b2-0b84929b66d7","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"aec4695f-37ae-4cff-bc5a-167cd5d34f5b","path":"sprites/spr_cuisse/spr_cuisse.yy",},},},"Disabled":false,"id":"67accd95-f15e-4273-b9f8-a4422e8df8be","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 268,
+  "width": 908,
 }

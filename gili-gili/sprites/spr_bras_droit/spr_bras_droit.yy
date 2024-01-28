@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_bras_droit",
-  "bbox_bottom": 144,
-  "bbox_left": 0,
-  "bbox_right": 173,
-  "bbox_top": 0,
+  "bbox_bottom": 241,
+  "bbox_left": 329,
+  "bbox_right": 502,
+  "bbox_top": 97,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4f30b7c2-666a-467f-aaa3-4513ecae0dda",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"07d57980-a206-4849-a1ad-fbcbd69cf7db",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 145,
+  "height": 615,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f8a0c1bf-2ea3-486e-ad73-4476a776405b","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5ada1ed5-3f95-4919-b97e-7010c5ea5b67","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"4f30b7c2-666a-467f-aaa3-4513ecae0dda","path":"sprites/spr_bras_droit/spr_bras_droit.yy",},},},"Disabled":false,"id":"296e64ed-6766-441b-afce-5181776cf2df","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"07d57980-a206-4849-a1ad-fbcbd69cf7db","path":"sprites/spr_bras_droit/spr_bras_droit.yy",},},},"Disabled":false,"id":"2da0c560-28f0-4d00-ac79-eb8aad842cd8","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 174,
+  "width": 908,
 }

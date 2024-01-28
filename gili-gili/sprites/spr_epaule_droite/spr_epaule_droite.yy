@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_epaule_droite",
-  "bbox_bottom": 153,
-  "bbox_left": 0,
-  "bbox_right": 215,
-  "bbox_top": 0,
+  "bbox_bottom": 198,
+  "bbox_left": 398,
+  "bbox_right": 613,
+  "bbox_top": 45,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9566f4e3-d57e-4a2a-9a5c-68ddeeadee2c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"511c49ef-d7ce-4693-a7bd-5fd06ac30abe",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 154,
+  "height": 615,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d6e0047d-6428-4459-a7db-2ea4d4ea9c27","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"db8f7600-e164-4e3a-adc6-ec2883a82eae","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"9566f4e3-d57e-4a2a-9a5c-68ddeeadee2c","path":"sprites/spr_epaule_droite/spr_epaule_droite.yy",},},},"Disabled":false,"id":"521177bd-5057-497e-a1ea-f62f91c4b08d","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"511c49ef-d7ce-4693-a7bd-5fd06ac30abe","path":"sprites/spr_epaule_droite/spr_epaule_droite.yy",},},},"Disabled":false,"id":"0b176b29-1cc5-435f-8d86-f36fc1ed8699","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 216,
+  "width": 908,
 }

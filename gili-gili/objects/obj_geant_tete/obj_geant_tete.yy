@@ -28,10 +28,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_tete_contour",
-    "path": "sprites/spr_tete_contour/spr_tete_contour.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

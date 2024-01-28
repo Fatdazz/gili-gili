@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_jambe_gauche",
-  "bbox_bottom": 260,
-  "bbox_left": 0,
-  "bbox_right": 274,
-  "bbox_top": 0,
+  "bbox_bottom": 438,
+  "bbox_left": 159,
+  "bbox_right": 433,
+  "bbox_top": 178,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c858ed63-3e60-468b-b861-022ada74c326",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1b42e3c2-6c42-4d75-8979-2aab01484d6a",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 261,
+  "height": 615,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"056e2011-ce77-4c56-af15-e18f82a9c3c0","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"4f479a0a-9857-44a7-81fb-acb5de8bb1a8","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c858ed63-3e60-468b-b861-022ada74c326","path":"sprites/spr_jambe_gauche/spr_jambe_gauche.yy",},},},"Disabled":false,"id":"dae54e75-a214-4b41-a14c-93fadc9ef7be","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"1b42e3c2-6c42-4d75-8979-2aab01484d6a","path":"sprites/spr_jambe_gauche/spr_jambe_gauche.yy",},},},"Disabled":false,"id":"4fb58cd4-4633-4476-85e5-6f484a067377","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 275,
+  "width": 908,
 }

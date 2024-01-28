@@ -1,4 +1,35 @@
 {
+<<<<<<< Updated upstream
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [],
+=======
+  "FolderOrderSettings": [
+    {"name":"bras_droit","order":1,"path":"folders/Sprites/geant/bras_droit.yy",},
+    {"name":"bras_gauche","order":2,"path":"folders/Sprites/geant/bras_gauche.yy",},
+    {"name":"cuisse","order":3,"path":"folders/Sprites/geant/cuisse.yy",},
+    {"name":"epaule_droite","order":4,"path":"folders/Sprites/geant/epaule_droite.yy",},
+    {"name":"epaule_gauche","order":5,"path":"folders/Sprites/geant/epaule_gauche.yy",},
+    {"name":"jambe_droite","order":6,"path":"folders/Sprites/geant/jambe_droite.yy",},
+    {"name":"jambe_gauche","order":7,"path":"folders/Sprites/geant/jambe_gauche.yy",},
+    {"name":"main_droite","order":8,"path":"folders/Sprites/geant/main_droite.yy",},
+    {"name":"main_gauche","order":9,"path":"folders/Sprites/geant/main_gauche.yy",},
+    {"name":"pied_droit","order":10,"path":"folders/Sprites/geant/pied_droit.yy",},
+    {"name":"pied_gauche","order":11,"path":"folders/Sprites/geant/pied_gauche.yy",},
+    {"name":"tete","order":12,"path":"folders/Sprites/geant/tete.yy",},
+    {"name":"ventre","order":13,"path":"folders/Sprites/geant/ventre.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"spr_ventre_tache_1","order":1,"path":"sprites/spr_ventre_tache_1/spr_ventre_tache_1.yy",},
+    {"name":"spr_ventre_tache_2","order":2,"path":"sprites/spr_ventre_tache_2/spr_ventre_tache_2.yy",},
+    {"name":"spr_jambe_droite_tache","order":1,"path":"sprites/spr_jambe_droite_tache/spr_jambe_droite_tache.yy",},
+    {"name":"spr_tete_tache","order":1,"path":"sprites/spr_tete_tache/spr_tete_tache.yy",},
+    {"name":"spr_jambe_gauche_tache_2","order":2,"path":"sprites/spr_jambe_gauche_tache_2/spr_jambe_gauche_tache_2.yy",},
+    {"name":"spr_cuisse_tache","order":1,"path":"sprites/spr_cuisse_tache/spr_cuisse_tache.yy",},
+    {"name":"spr_bras_gauche_tache","order":1,"path":"sprites/spr_bras_gauche_tache/spr_bras_gauche_tache.yy",},
+    {"name":"spr_pied_gauche_tache","order":1,"path":"sprites/spr_pied_gauche_tache/spr_pied_gauche_tache.yy",},
+    {"name":"spr_main_droite_tache","order":1,"path":"sprites/spr_main_droite_tache/spr_main_droite_tache.yy",},
+    {"name":"spr_jambe_gauche_tache_1","order":1,"path":"sprites/spr_jambe_gauche_tache_1/spr_jambe_gauche_tache_1.yy",},
+    {"name":"spr_epaule_droite_tache","order":1,"path":"sprites/spr_epaule_droite_tache/spr_epaule_droite_tache.yy",},
+  ],
+>>>>>>> Stashed changes
 }

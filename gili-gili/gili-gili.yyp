@@ -106,6 +106,7 @@
     {"id":{"name":"obj_geant_av_bras_g","path":"objects/obj_geant_av_bras_g/obj_geant_av_bras_g.yy",},},
     {"id":{"name":"obj_geant_main_g","path":"objects/obj_geant_main_g/obj_geant_main_g.yy",},},
     {"id":{"name":"spr_geant_epaule_gauche","path":"sprites/spr_geant_epaule_gauche/spr_geant_epaule_gauche.yy",},},
+    {"id":{"name":"ani_draw_pie","path":"animcurves/ani_draw_pie/ani_draw_pie.yy",},},
     {"id":{"name":"spr_geant_main_droite","path":"sprites/spr_geant_main_droite/spr_geant_main_droite.yy",},},
     {"id":{"name":"rm_camion","path":"rooms/rm_camion/rm_camion.yy",},},
     {"id":{"name":"input","path":"objects/input/input.yy",},},

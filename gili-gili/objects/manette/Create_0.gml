@@ -9,3 +9,7 @@ for (var i = 0; i < gp_num; i++;)
 	show_debug_message( "i : " + string(i) + " => " + string(global.gp[i]) )
 
 }
+
+var _guid = gamepad_get_guid(global.gp[0]);
+var _desc = gamepad_get_description(global.gp[0]);
+show_debug_message( "_guid : " + string(_guid) + " _desc: " + string(_desc))

@@ -1,6 +1,13 @@
 {
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
+    {"name":"solo4","order":5,"path":"sounds/solo4/solo4.yy",},
+    {"name":"solo3","order":4,"path":"sounds/solo3/solo3.yy",},
+    {"name":"spr_main_1","order":1,"path":"sprites/spr_main_1/spr_main_1.yy",},
     {"name":"rm_game_02","order":1,"path":"rooms/rm_game_02/rm_game_02.yy",},
+    {"name":"solo1","order":2,"path":"sounds/solo1/solo1.yy",},
+    {"name":"obj_music","order":1,"path":"objects/obj_music/obj_music.yy",},
+    {"name":"backtrack","order":1,"path":"sounds/backtrack/backtrack.yy",},
+    {"name":"solo2","order":3,"path":"sounds/solo2/solo2.yy",},
   ],
 }

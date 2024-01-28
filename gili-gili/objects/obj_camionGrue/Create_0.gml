@@ -16,16 +16,7 @@ var newX = lengthdir_x(sprite_get_height(spr_truss_long)*scale_im,30)
 var newY = lengthdir_y(sprite_get_height(spr_truss_long)*scale_im,30)
 var instB = instance_create_layer(newX + x , newY + y, layer, obj_truss_long);
 
-show_debug_message("x = : " + string(x+newX))
-show_debug_message("phy_position_x :" + string(phy_position_x))
-show_debug_message("y = : " + string(y+newY))
-show_debug_message("phy_position_y :" + string(phy_position_y))
-
-instB.image_xscale = scale_im
-instB.image_yscale = scale_im
 instB.phy_rotation = 60
-	show_debug_message("phy_position_x :" + string(phy_position_x))
-	show_debug_message("phy_position_y :" + string(phy_position_y))
 
 joint = physics_joint_revolute_create(id, instB, x, y, 0, 0, false, torque_ref, speed_ref, false, false);
 

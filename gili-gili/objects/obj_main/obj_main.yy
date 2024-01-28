@@ -9,7 +9,10 @@
     "name": "Grue",
     "path": "folders/Objets/Grue.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_Dynamic",
+    "path": "objects/obj_Dynamic/obj_Dynamic.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -25,7 +28,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "Sprite35",
+    "path": "sprites/Sprite35/Sprite35.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

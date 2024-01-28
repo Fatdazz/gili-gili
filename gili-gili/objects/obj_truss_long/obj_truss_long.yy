@@ -4,6 +4,7 @@
   "name": "obj_truss_long",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -27,10 +28,10 @@
   "physicsSensor": false,
   "physicsShape": 1,
   "physicsShapePoints": [
-    {"x":0.0,"y":0.0,},
-    {"x":8.0,"y":0.0,},
-    {"x":8.0,"y":64.0,},
-    {"x":0.0,"y":64.0,},
+    {"x":68.0,"y":5.0,},
+    {"x":188.0,"y":5.0,},
+    {"x":188.0,"y":988.0,},
+    {"x":68.0,"y":988.0,},
   ],
   "physicsStartAwake": true,
   "properties": [],

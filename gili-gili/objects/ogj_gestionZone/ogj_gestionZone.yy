@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "ogj_pierre",
+  "name": "ogj_gestionZone",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],

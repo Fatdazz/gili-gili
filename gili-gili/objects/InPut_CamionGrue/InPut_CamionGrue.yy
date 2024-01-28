@@ -17,10 +17,7 @@
     "name": "input",
     "path": "folders/Objets/input.yy",
   },
-  "parentObjectId": {
-    "name": "obj_Dynamic",
-    "path": "objects/obj_Dynamic/obj_Dynamic.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -36,6 +33,7 @@
   "physicsStartAwake": true,
   "properties": [
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"eps","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0","varType":0,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"div_force","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"3","varType":0,},
   ],
   "solid": false,
   "spriteId": null,

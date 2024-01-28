@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_bras_gauche",
+    "path": "sprites/spr_bras_gauche/spr_bras_gauche.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

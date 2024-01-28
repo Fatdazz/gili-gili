@@ -9,10 +9,7 @@
     "name": "Geant",
     "path": "folders/Objets/Geant.yy",
   },
-  "parentObjectId": {
-    "name": "obj_geant_move_rire",
-    "path": "objects/obj_geant_move_rire/obj_geant_move_rire.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -28,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_pied_droit",
+    "path": "sprites/spr_pied_droit/spr_pied_droit.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

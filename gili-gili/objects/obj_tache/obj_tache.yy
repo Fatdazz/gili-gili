@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_geant_cuisse",
+  "name": "obj_tache",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Geant",
-    "path": "folders/Objets/Geant.yy",
+    "name": "taches",
+    "path": "folders/Objets/Geant/taches.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -25,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_cuisse",
-    "path": "sprites/spr_cuisse/spr_cuisse.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

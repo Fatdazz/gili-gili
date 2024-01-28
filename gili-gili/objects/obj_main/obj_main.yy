@@ -34,8 +34,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite35",
-    "path": "sprites/Sprite35/Sprite35.yy",
+    "name": "spr_main_1",
+    "path": "sprites/spr_main_1/spr_main_1.yy",
   },
   "spriteMaskId": null,
   "visible": true,

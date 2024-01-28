@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_cuisse",
+    "path": "sprites/spr_cuisse/spr_cuisse.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

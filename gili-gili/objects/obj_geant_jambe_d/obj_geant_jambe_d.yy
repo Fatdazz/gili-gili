@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_jambe_droite",
+    "path": "sprites/spr_jambe_droite/spr_jambe_droite.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

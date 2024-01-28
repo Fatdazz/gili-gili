@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_truss_moyen",
-  "bbox_bottom": 190,
-  "bbox_left": 875,
-  "bbox_right": 1558,
-  "bbox_top": 42,
+  "bbox_bottom": 696,
+  "bbox_left": 66,
+  "bbox_right": 160,
+  "bbox_top": 4,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3128dc44-690a-47e9-b9db-c52a88c89c8a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"acb3f550-a0d3-4f68-bbe2-dd0d9f73f059",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 1250,
+  "height": 701,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"dae51508-9867-48b3-8b3a-05d798c2f5f1","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"1e95dcdb-bd6c-4c36-a1fc-a19a634c15e2","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"3128dc44-690a-47e9-b9db-c52a88c89c8a","path":"sprites/spr_truss_moyen/spr_truss_moyen.yy",},},},"Disabled":false,"id":"98182102-b187-4766-a538-115fa8e98ce7","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"acb3f550-a0d3-4f68-bbe2-dd0d9f73f059","path":"sprites/spr_truss_moyen/spr_truss_moyen.yy",},},},"Disabled":false,"id":"739682fa-799f-4ce3-ae56-6f6faad119cc","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 2400,
+  "width": 188,
 }

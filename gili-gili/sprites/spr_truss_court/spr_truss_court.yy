@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_truss_court",
-  "bbox_bottom": 264,
-  "bbox_left": 1478,
-  "bbox_right": 1787,
-  "bbox_top": 38,
+  "bbox_bottom": 319,
+  "bbox_left": 21,
+  "bbox_right": 100,
+  "bbox_top": 6,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6bfd8085-183f-4510-9f0f-59d969b91a6f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0fb96890-a415-4b75-a75e-443f4f611b46",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 1250,
+  "height": 334,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d6ed7289-98bd-45df-b20e-9d0523ebf58f","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"fdc87805-b06e-475d-8c6e-5b347d10d7c7","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6bfd8085-183f-4510-9f0f-59d969b91a6f","path":"sprites/spr_truss_court/spr_truss_court.yy",},},},"Disabled":false,"id":"40eb54cf-a08a-43b5-b565-15260033d016","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"0fb96890-a415-4b75-a75e-443f4f611b46","path":"sprites/spr_truss_court/spr_truss_court.yy",},},},"Disabled":false,"id":"c0053d39-83a2-4c03-9492-c40d98f860e3","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 2400,
+  "width": 101,
 }

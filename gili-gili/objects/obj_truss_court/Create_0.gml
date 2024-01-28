@@ -10,7 +10,7 @@ instB.image_angle = 91
 
 joint = physics_joint_revolute_create(id, instB, x, y, -90, -90, true, 0, 0, true, false);
 
-instc = instance_create_layer(100 , 1999 + y, layer, obj_truss_joint);
+var instc = instance_create_layer(100 , 1999 + y, layer, obj_truss_joint);
 
 with(instc){
 	image_xscale = other.scale_im

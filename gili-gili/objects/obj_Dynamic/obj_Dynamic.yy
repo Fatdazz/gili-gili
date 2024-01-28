@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_Dynamic",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","eventNum":0,"eventType":4,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_Static","path":"objects/obj_Static/obj_Static.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -31,7 +31,11 @@
     {"x":0.0,"y":32.0,},
   ],
   "physicsStartAwake": true,
-  "properties": [],
+  "properties": [
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"speed_ref","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"400","varType":0,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"torque_ref","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"400","varType":0,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"scale_im","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"1","varType":0,},
+  ],
   "solid": false,
   "spriteId": null,
   "spriteMaskId": null,

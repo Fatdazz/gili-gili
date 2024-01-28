@@ -37,8 +37,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_cabine",
-    "path": "sprites/spr_cabine/spr_cabine.yy",
+    "name": "spr_joueur1_lutin",
+    "path": "sprites/spr_joueur1_lutin/spr_joueur1_lutin.yy",
   },
   "spriteMaskId": null,
   "visible": true,

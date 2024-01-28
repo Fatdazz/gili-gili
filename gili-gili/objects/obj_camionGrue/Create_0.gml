@@ -15,14 +15,14 @@ physics_fixture_delete(fixture);
 
 var newX = lengthdir_x(sprite_get_height(spr_truss_long)*0.3,30)
 var newY = lengthdir_y(sprite_get_height(spr_truss_long)*0.3,30)
-var instB = instance_create_layer(newX + x , newY + y, "Instances", obj_truss_long);
+var instB = instance_create_layer(newX + x , newY + y, layer, obj_truss_long);
 
 with(instB){
 	image_xscale = 0.3
 	image_yscale = 0.3
 	image_angle = -90 + 30
 }
-var instc = instance_create_layer(x , y, "Instances", obj_truss_joint);
+var instc = instance_create_layer(x , y, layer, obj_truss_joint);
 
 with(instc){
 	image_xscale = 0.3

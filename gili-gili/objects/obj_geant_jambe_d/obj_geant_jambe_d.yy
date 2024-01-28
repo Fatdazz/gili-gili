@@ -9,10 +9,7 @@
     "name": "Geant",
     "path": "folders/Objets/Geant.yy",
   },
-  "parentObjectId": {
-    "name": "obj_geant_move_rire",
-    "path": "objects/obj_geant_move_rire/obj_geant_move_rire.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,

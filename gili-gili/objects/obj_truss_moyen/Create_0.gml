@@ -1,6 +1,6 @@
 
-var newX = lengthdir_x(sprite_get_height(spr_truss_court)*scale_im,-50)
-var newY = lengthdir_y(sprite_get_height(spr_truss_court)*scale_im,-50)
+var newX = lengthdir_x(sprite_get_height(spr_truss_moyen)*scale_im,-50)
+var newY = lengthdir_y(sprite_get_height(spr_truss_moyen)*scale_im,-50)
 var instB = instance_create_layer(newX + x , newY + y, layer, obj_truss_court);
 
 instB.image_xscale = scale_im

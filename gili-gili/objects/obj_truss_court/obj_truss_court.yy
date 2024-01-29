@@ -36,8 +36,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_truss_court",
-    "path": "sprites/spr_truss_court/spr_truss_court.yy",
+    "name": "spr_truss_moyen",
+    "path": "sprites/spr_truss_moyen/spr_truss_moyen.yy",
   },
   "spriteMaskId": null,
   "visible": true,

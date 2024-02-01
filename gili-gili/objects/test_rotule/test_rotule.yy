@@ -46,6 +46,8 @@
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"_objMain","filters":[
         "GMSprite",
       ],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"spr_truss_moyen","varType":5,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"_scale_rotule_1","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0.75","varType":0,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"_scale_rotule_2","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0.65","varType":0,},
   ],
   "solid": false,
   "spriteId": {

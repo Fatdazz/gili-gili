@@ -1,6 +1,7 @@
 /// @description Insérez la description ici
 // Vous pouvez écrire votre code dans cet éditeur
-
+global.listRotule = array_create(4,noone);
+global.listRotule[0] = id;
 var _spr_print = spr_truss_long
 var newX = sprite_get_height(_spr_print) + 2*sprite_get_height(str_joint_back)/3
 

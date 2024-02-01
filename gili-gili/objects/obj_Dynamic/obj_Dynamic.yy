@@ -31,11 +31,7 @@
     {"x":0.0,"y":32.0,},
   ],
   "physicsStartAwake": true,
-  "properties": [
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"speed_ref","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"400000","varType":0,},
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"torque_ref","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"400000","varType":0,},
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"scale_im","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"1","varType":0,},
-  ],
+  "properties": [],
   "solid": false,
   "spriteId": null,
   "spriteMaskId": null,

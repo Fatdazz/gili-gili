@@ -17,11 +17,12 @@ if place_empty(x, y,obj_tache )
 		{
 		for (var i = 0; i < _num; ++i;)
 		{
-			_list[|i].image.alpha =_list|[i].image.alpha - 0.1;
+			_list[|i].image.alpha =_list[|i].image.alpha - 0.1;
 		}
+		ds_list_destroy(_list);
 }
 
-ds_list_destroy(_list);
+
 	
 }else global.ok = false
 

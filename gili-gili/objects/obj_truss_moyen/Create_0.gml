@@ -7,7 +7,7 @@ instB.image_xscale = scale_im
 instB.image_yscale = scale_im
 instB.phy_rotation = 140
 
-joint = physics_joint_revolute_create(id, instB, x, y, -90, -90, true, torque_ref, speed_ref, true, false);
+joint = physics_joint_revolute_create(id, instB, x, y, 0, 0, true, torque_ref, speed_ref, true, false);
 
 var instc = instance_create_layer(100 , 1999 + y, layer, obj_truss_joint);
 

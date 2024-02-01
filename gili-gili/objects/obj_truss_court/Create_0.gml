@@ -1,6 +1,6 @@
 
-var newX = lengthdir_x(sprite_get_height(Sprite35),10)
-var newY = lengthdir_y(sprite_get_height(Sprite35),10)
+var newX = lengthdir_x(sprite_get_height(spr_main_1),10)
+var newY = lengthdir_y(sprite_get_height(spr_main_1),10)
 var instB = instance_create_layer(newX + x , newY + y, layer, obj_main);
 
 

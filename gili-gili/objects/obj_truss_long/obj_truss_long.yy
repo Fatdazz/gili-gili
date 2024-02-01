@@ -3,18 +3,19 @@
   "resourceVersion": "1.0",
   "name": "obj_truss_long",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
   ],
   "managed": true,
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_infoJoint","path":"objects/obj_infoJoint/obj_infoJoint.yy",},"propertyId":{"name":"phy_rotation_suit","path":"objects/obj_infoJoint/obj_infoJoint.yy",},"value":"100",},
+  ],
   "parent": {
     "name": "Grue",
     "path": "folders/Objets/Grue.yy",
   },
   "parentObjectId": {
-    "name": "obj_Dynamic",
-    "path": "objects/obj_Dynamic/obj_Dynamic.yy",
+    "name": "obj_infoJoint",
+    "path": "objects/obj_infoJoint/obj_infoJoint.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,

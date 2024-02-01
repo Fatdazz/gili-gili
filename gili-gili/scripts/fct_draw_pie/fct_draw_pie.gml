@@ -21,7 +21,7 @@ function draw_pie(_x  , _y  ,_health , _max, _col, _radius, _transparency){
             len = (i*sizeofsection)+90; // the 90 here is the starting angle
             tx = lengthdir_x(_radius, len);
             ty = lengthdir_y(_radius, len);
-            draw_vertex(_x+tx, _y + ty);
+            draw_vertex(_x -tx, _y +ty);
         }
         draw_primitive_end();
         

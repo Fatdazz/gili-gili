@@ -12,8 +12,8 @@
     "path": "folders/Objets/Grue.yy",
   },
   "parentObjectId": {
-    "name": "obj_Dynamic",
-    "path": "objects/obj_Dynamic/obj_Dynamic.yy",
+    "name": "obj_infoJoint",
+    "path": "objects/obj_infoJoint/obj_infoJoint.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
